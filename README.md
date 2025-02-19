@@ -1,6 +1,6 @@
 # React Closures
 
-This project is a companion to my upcoming post on LogRocket about React Closures. The project was built with vite and can be ran locally with:
+This project is a companion to my upcoming post on LogRocket about [JavaScript Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) that happen in React. The project was built with vite and can be ran locally with:
 
 ```bash
 npm install
